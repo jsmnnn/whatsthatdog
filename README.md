@@ -26,7 +26,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![whatisthatdog](https://github.com/jsmnnn/whatsthatdog/assets/115364784/64ea72cb-c97b-4666-b6ea-0eb60d2a7cb5)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
