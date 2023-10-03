@@ -29,12 +29,7 @@ Here's a walkthrough of implemented required features:
 ![whatisthatdog](https://github.com/jsmnnn/whatsthatdog/assets/115364784/64ea72cb-c97b-4666-b6ea-0eb60d2a7cb5)
 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap  
 
 ## Notes
 
